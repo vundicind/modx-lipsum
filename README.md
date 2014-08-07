@@ -8,7 +8,7 @@ Included snippets
 
 ### Snippet `[[Lipsum]]`
 
-This snipet uses [lipsum.com](http://lipsum.com/) or [loripsum.net](http://loripsum.net/) to generate the Lore Ipsum text.
+This snippet uses [lipsum.com](http://lipsum.com/) or [loripsum.net](http://loripsum.net/) to generate the Lore Ipsum text.
 
 #### Snippet Parameters
 * `paras`     -  number of paragraphs to generate
