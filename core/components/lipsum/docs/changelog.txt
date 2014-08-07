@@ -1,0 +1,6 @@
+Changelog file for Lipsum component.
+Please see https://github.com/vundicind/modx-lipsum for full commit history
+
+Lipsum 1.0
+=======================================
+- Packaged for transport
